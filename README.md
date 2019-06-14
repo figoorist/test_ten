@@ -4,6 +4,6 @@ Maven
 
 TestNG
 
-Parameters and running - testng.xml
+Parameters and running - src/test/resources/testng.xml
 
 Page object pattern is represented with Steps -> Pages -> Fasades hierarchy
